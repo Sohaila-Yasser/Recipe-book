@@ -1,0 +1,20 @@
+.search-icon {
+  color: #eaaa00;
+  margin-left: 22rem;
+  display: block;
+  margin-top: -2rem;
+}
+
+#search {
+  border-radius: 3px;
+  border: none;
+  height: 2rem;
+  width: 13rem;
+  padding-left: 1rem;
+}
+
+.search {
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}

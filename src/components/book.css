@@ -1,0 +1,57 @@
+.dessert-img {
+  float: right;
+}
+
+.book {
+  width: 100%;
+  height: auto;
+}
+
+.cover {
+  text-align: center;
+  align-items: center;
+  margin-top: 2rem;
+}
+
+.recipes {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 2rem;
+}
+
+.one,
+.two {
+  width: 37rem;
+  height: 51.5rem;
+  background: #16537e;
+  color: white;
+  padding-top: 3rem;
+  padding-left: 2rem;
+  border-radius: 2px;
+}
+
+.book-divider {
+  width: 0.7rem;
+  height: 51.5rem;
+  background: black;
+  border-radius: 2px;
+}
+.cheif-img {
+  width: 4rem;
+  height: 4rem;
+  margin-top: -2rem;
+  margin-right: -2rem;
+}
+.cover-button {
+  background: green;
+  border: none;
+  color: white;
+  top: 36rem;
+  position: absolute;
+  right: 48rem;
+  border-radius: 50px;
+  width: 6rem;
+  height: 2rem;
+  font-size: 1rem;
+}

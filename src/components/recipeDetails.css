@@ -1,0 +1,15 @@
+.recipe-img {
+  margin-top: 1rem;
+  width: 18rem;
+  height: 15rem;
+  object-fit: cover;
+  border-radius: 3px;
+}
+
+.recipe-details {
+  line-height: 2rem;
+}
+
+.ingredient {
+  margin-top: 1rem;
+}

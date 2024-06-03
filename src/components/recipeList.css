@@ -1,0 +1,20 @@
+.list {
+  margin-top: 1rem;
+}
+
+.list-items {
+  line-height: 2rem;
+}
+
+.recipe-list {
+  margin-top: 4rem;
+}
+
+.list-items:hover {
+  cursor: pointer;
+  color: #eaaa00;
+}
+
+.active-recipe {
+  color: #eaaa00;
+}
